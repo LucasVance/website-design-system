@@ -18,3 +18,15 @@
 .space-blue {
     background-color: #2e294e;
 }
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'Roboto Mono', 'Courier New', monospace;
+}
