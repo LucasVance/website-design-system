@@ -24,6 +24,17 @@
 
 /* Font display rules */
 
+.open-sans {
+    font-family: 'Open Sans';
+}
+
+.roboto-mono {
+    font-family: 'Roboto Mono';
+}
+
+.arvo {
+    font-family: 'Arvo';
+}
 
 
 /* Lower-level element font style rules */
