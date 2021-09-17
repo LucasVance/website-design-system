@@ -3,6 +3,8 @@
     margin: 20px auto;
     padding: 20px;
     display: inline-block;
+    width: 25%;
+    text-align: center;
 }
 
 .basic-crimson {
