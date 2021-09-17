@@ -36,6 +36,14 @@
     font-family: 'Arvo';
 }
 
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
 
 /* Lower-level element font style rules */
 
