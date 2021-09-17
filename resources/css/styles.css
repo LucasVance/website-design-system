@@ -1,0 +1,18 @@
+.color-display {
+    color: white;
+    margin: 20px auto;
+    padding: 20px;
+    display: inline-block;
+}
+
+.basic-crimson {
+    background-color: #d7263d;
+}
+
+.portland-orange {
+    background-color: #f46036;
+}
+
+.space-blue {
+    background-color: #2e294e;
+}
