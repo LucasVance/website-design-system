@@ -1,3 +1,5 @@
+/* Color display rules */
+
 .color-display {
     color: white;
     margin: 20px auto;
@@ -18,6 +20,13 @@
 .space-blue {
     background-color: #2e294e;
 }
+
+
+/* Font display rules */
+
+
+
+/* Lower-level element font style rules */
 
 h1 {
     font-family: 'Open Sans', sans-serif;
