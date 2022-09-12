@@ -1,3 +1,18 @@
+/* Basic body rules */
+body {
+    margin: 0 auto;
+    width: 50em;
+}
+
+
+/* Box rules */
+.container {
+    padding: 20px;
+    border: 2px solid grey;
+    margin: 20px auto;
+}
+
+
 /* Color display rules */
 
 .color-display {
