@@ -1,10 +1,14 @@
-/* Basic body rules */
+/* Basic */
 body {
     margin: 0 auto;
-    width: 50em;
+    width: 500px;
 }
 
-/* Box rules */
+.hidden {
+    visibility: hidden;
+}
+
+/* Boxes */
 .container {
     margin: 20px auto;
     padding: 20px;
@@ -12,16 +16,20 @@ body {
     border-radius: 12px;
 }
 
-/* Color display rules */
+/* Color displays */
 
 .color-display {
     color: white;
-    margin: 20px 20px;
-    padding: 20px;
+    margin: auto auto;
+    padding: 10px;
     display: inline-block;
-    width: 20%;
+    width: 100px;
     text-align: center;
     border-radius: 12px;
+}
+
+#colors {
+    text-align: center;
 }
 
 .steel-teal {
@@ -36,7 +44,7 @@ body {
     background-color: #84596b;
 }
 
-/* Font display rules */
+/* Font display */
 
 .open-sans {
     font-family: "Open Sans";
@@ -58,7 +66,7 @@ body {
     font-weight: 700;
 }
 
-/* Lower-level element font style rules */
+/* Lower-level element font style */
 
 h1 {
     font-family: "Arvo", sans-serif;
@@ -79,4 +87,11 @@ p {
 ul {
     list-style-type: none;
     font-family: "Roboto Mono", "Courier New", monospace;
+}
+
+/* GH repository icon */
+#github-link {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
 }
