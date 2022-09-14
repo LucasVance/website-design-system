@@ -20,10 +20,11 @@ body {
 
 .color-display {
     color: white;
-    margin: auto auto;
-    padding: 10px;
+    margin: auto;
+    padding: 30px 10px;
     display: inline-block;
-    width: 100px;
+    width: 120px;
+    height: 120px;
     text-align: center;
     border-radius: 12px;
 }
